@@ -70,7 +70,8 @@ Developed by:Syed Najmuddin RegisterNumber:212225040456
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/6fbeeb1b-b388-4c75-9b08-8f7b5726212d" />
+<img width="1917" height="974" alt="645775722-6fbeeb1b-b388-4c75-9b08-8f7b5726212d" src="https://github.com/user-attachments/assets/7753225c-9ad3-45e8-86d6-2096ccd4819e" />
+
 
 **RESULTS**
 The 4-bit Serial-In Serial-Out (SISO) Shift Register was successfully designed and implemented using Verilog HDL in Quartus Prime. The functional behavior of the circuit was validated through simulation waveforms, confirming that data shifts sequentially through the flip-flops on every positive edge of the clock signal.
