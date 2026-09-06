@@ -66,7 +66,8 @@ Developed by:Syed Najmuddin RegisterNumber:212225040456
 */
 
 **RTL LOGIC FOR SISO Shift Register**
-<img width="1916" height="1023" alt="image" src="https://github.com/user-attachments/assets/f0f4fd83-0849-49ad-a432-42fbb5a5d7b0" />
+<img width="1916" height="990" alt="643341852-f0f4fd83-0849-49ad-a432-42fbb5a5d7b0" src="https://github.com/user-attachments/assets/76c29130-8f5f-4da7-9808-0b8548241382" />
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/6fbeeb1b-b388-4c75-9b08-8f7b5726212d" />
